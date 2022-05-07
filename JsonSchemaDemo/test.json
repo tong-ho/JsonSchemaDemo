@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "test.schema.json",
+  "stringProperty": "test",
+  "numberProperty": 0,
+  "numberBetween1and5Property": 4,
+  "complexProperty": {
+    "length": 0,
+    "name": "test"
+  },
+  "simpleArray": [ "test" ],
+  "complexArray": [
+    {
+      "length": 0,
+      "name": "test"
+    }
+  ],
+  "enumProperty": "North",
+  "requiredStringProperty": "test",
+  "timestampRegex":"2021-01-01 21:01:01"
+}
